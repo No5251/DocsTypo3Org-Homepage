@@ -1,0 +1,702 @@
+{
+   "std:doc": {
+      "404": [
+         "Welcome!",
+         "2.0",
+         "404.html",
+         "Page not found (404)"
+      ],
+      "Home/About/Index": [
+         "Welcome!",
+         "2.0",
+         "Home/About/Index.html",
+         "About TYPO3 Documentation"
+      ],
+      "Home/About/News/2012-2015/Index": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2012-2015/Index.html",
+         "2012 - 2015"
+      ],
+      "Home/About/News/2016/Index": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html",
+         "2016"
+      ],
+      "Home/About/News/2017/Index": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2017/Index.html",
+         "2017"
+      ],
+      "Home/About/News/2018/Index": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2018/Index.html",
+         "2018"
+      ],
+      "Home/About/News/2019/Index": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2019/Index.html",
+         "2019"
+      ],
+      "Home/About/News/2020/Index": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2020/Index.html",
+         "2020"
+      ],
+      "Home/About/News/2021/Index": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2021/Index.html",
+         "2021"
+      ],
+      "Home/About/News/Index": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/Index.html",
+         "Documentation Changelog"
+      ],
+      "Home/About/UsingThisSite/Index": [
+         "Welcome!",
+         "2.0",
+         "Home/About/UsingThisSite/Index.html",
+         "Usage tips"
+      ],
+      "Home/CheatSheets": [
+         "Welcome!",
+         "2.0",
+         "Home/CheatSheets.html",
+         "Cheat Sheets"
+      ],
+      "Home/ConfiguringTYPO3": [
+         "Welcome!",
+         "2.0",
+         "Home/ConfiguringTYPO3.html",
+         "Configuring TYPO3"
+      ],
+      "Home/Contribute": [
+         "Welcome!",
+         "2.0",
+         "Home/Contribute.html",
+         "Contribute"
+      ],
+      "Home/CreatingManagingContent": [
+         "Welcome!",
+         "2.0",
+         "Home/CreatingManagingContent.html",
+         "Creating & Managing Content"
+      ],
+      "Home/ExtensionManuals": [
+         "Welcome!",
+         "2.0",
+         "Home/ExtensionManuals.html",
+         "Developing & Using Extensions"
+      ],
+      "Home/GettingStarted": [
+         "Welcome!",
+         "2.0",
+         "Home/GettingStarted.html",
+         "Getting Started"
+      ],
+      "Home/References": [
+         "Welcome!",
+         "2.0",
+         "Home/References.html",
+         "Reference Manuals"
+      ],
+      "Home/SystemExtensions": [
+         "Welcome!",
+         "2.0",
+         "Home/SystemExtensions.html",
+         "System Extensions"
+      ],
+      "Home/Teams": [
+         "Welcome!",
+         "2.0",
+         "Home/Teams.html",
+         "TYPO3 Teams"
+      ],
+      "Home/Templating": [
+         "Welcome!",
+         "2.0",
+         "Home/Templating.html",
+         "Templating"
+      ],
+      "Home/UpgradingTYPO3": [
+         "Welcome!",
+         "2.0",
+         "Home/UpgradingTYPO3.html",
+         "Upgrading TYPO3"
+      ],
+      "Home/WikiLanding": [
+         "Welcome!",
+         "2.0",
+         "Home/WikiLanding.html",
+         "TYPO3 Documentation"
+      ],
+      "Index": [
+         "Welcome!",
+         "2.0",
+         "Index.html",
+         "Welcome to the official TYPO3 Documentation"
+      ]
+   },
+   "std:label": {
+      "about-documentation": [
+         "Welcome!",
+         "2.0",
+         "Home/About/Index.html#about-documentation",
+         "About TYPO3 Documentation"
+      ],
+      "cheat-sheets": [
+         "Welcome!",
+         "2.0",
+         "Home/CheatSheets.html#cheat-sheets",
+         "Cheat Sheets"
+      ],
+      "configuringtypo3": [
+         "Welcome!",
+         "2.0",
+         "Home/ConfiguringTYPO3.html#configuringtypo3",
+         "Configuring TYPO3"
+      ],
+      "contribute": [
+         "Welcome!",
+         "2.0",
+         "Home/Contribute.html#contribute",
+         "Contribute"
+      ],
+      "creatingmanagingcontent": [
+         "Welcome!",
+         "2.0",
+         "Home/CreatingManagingContent.html#creatingmanagingcontent",
+         "Creating & Managing Content"
+      ],
+      "examples": [
+         "Welcome!",
+         "2.0",
+         "Index.html#examples",
+         "Welcome to the official TYPO3 Documentation"
+      ],
+      "extensions": [
+         "Welcome!",
+         "2.0",
+         "Home/ExtensionManuals.html#extensions",
+         "Developing & Using Extensions"
+      ],
+      "genindex": [
+         "Welcome!",
+         "2.0",
+         "genindex.html",
+         "Index"
+      ],
+      "getting-started": [
+         "Welcome!",
+         "2.0",
+         "Home/GettingStarted.html#getting-started",
+         "Getting Started"
+      ],
+      "guides": [
+         "Welcome!",
+         "2.0",
+         "Index.html#guides",
+         "Welcome to the official TYPO3 Documentation"
+      ],
+      "latest": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2021/Index.html#latest",
+         "2021"
+      ],
+      "modindex": [
+         "Welcome!",
+         "2.0",
+         "py-modindex.html",
+         "Module Index"
+      ],
+      "news": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/Index.html#news",
+         "Documentation Changelog"
+      ],
+      "news-2012-2015": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2012-2015/Index.html#news-2012-2015",
+         "2012 - 2015"
+      ],
+      "news-2016": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-2016",
+         "2016"
+      ],
+      "news-2016-06-30": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-2016-06-30",
+         "Improved Theme: Now it's version 3.6.0"
+      ],
+      "news-2016-08-05": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-2016-08-05",
+         "Inside TYPO3 updated"
+      ],
+      "news-2016-08-31": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-2016-08-31",
+         "Improved home page and menu structure"
+      ],
+      "news-2016-09-07": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-2016-09-07",
+         "TYPO3 Services Reference updated and expanded"
+      ],
+      "news-2016-09-14": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-2016-09-14",
+         "Cool stuff for nerds: Special templates available!"
+      ],
+      "news-2016-10-05": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-2016-10-05",
+         "TYPO3 Frontend Localization Guide updated"
+      ],
+      "news-2016-10-07": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-2016-10-07",
+         "NEW: Doctrine Database API documented in CoreApi Manual"
+      ],
+      "news-2016-11-07": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-2016-11-07",
+         "Better explained: TCA type \"flex\""
+      ],
+      "news-2016-11-18": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-2016-11-18",
+         "The FAL Reference has landed"
+      ],
+      "news-2016-12-28": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-2016-12-28",
+         "The ultimate explanation of optionSplit"
+      ],
+      "news-2017": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2017/Index.html#news-2017",
+         "2017"
+      ],
+      "news-2017-02-08": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2017/Index.html#news-2017-02-08",
+         "TYPO3 Code Snippets Have Moved To docs.typo3.org"
+      ],
+      "news-2017-02-15": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2017/Index.html#news-2017-02-15",
+         "FormEngine docs added"
+      ],
+      "news-2017-03-14": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2017/Index.html#news-2017-03-14",
+         "TCA Reference overhaul"
+      ],
+      "news-2017-04-03": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2017/Index.html#news-2017-04-03",
+         "What April brings: Cool buttons and \"bignums\""
+      ],
+      "news-2018": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2018/Index.html#news-2018",
+         "2018"
+      ],
+      "news-2018-01-19": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2018/Index.html#news-2018-01-19",
+         "Youtube Tutorial - Contribute to docs.typo3.org"
+      ],
+      "news-2018-01-20": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2018/Index.html#news-2018-01-20",
+         "Document restructurings"
+      ],
+      "news-2018-02-02": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2018/Index.html#news-2018-02-02",
+         "New manual: \"Tell me something about topic X\""
+      ],
+      "news-2018-03-28": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2018/Index.html#news-2018-03-28",
+         "Become a TYPO3 Documentation Team member"
+      ],
+      "news-2018-05-02": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2018/Index.html#news-2018-05-02",
+         "Revamped TSconfig Reference"
+      ],
+      "news-2018-05-31": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2018/Index.html#news-2018-05-31",
+         "\"Secret\" plans of better documentation rendering"
+      ],
+      "news-2018-06-13": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2018/Index.html#news-2018-06-13",
+         "NEW: TYPO3 Sitepackage Tutorial"
+      ],
+      "news-2018-10-13": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2018/Index.html#news-2018-10-13",
+         "TYPO3 Explained and more"
+      ],
+      "news-2018-11-05": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2018/Index.html#news-2018-11-05",
+         "NEW: TYPO3 ViewHelper Reference"
+      ],
+      "news-2018-11-13": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2018/Index.html#news-2018-11-13",
+         "NEW: TYPO3 Testing"
+      ],
+      "news-2019": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2019/Index.html#news-2019",
+         "2019"
+      ],
+      "news-2019-02-14": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2019/Index.html#news-2019-02-14",
+         "NEW: Documentation for rte_ckeditor"
+      ],
+      "news-2019-03-08": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2019/Index.html#news-2019-03-08",
+         "NEW: Documentation of Locking API"
+      ],
+      "news-2019-03-08-2": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2019/Index.html#news-2019-03-08-2",
+         "Improvements for Documentation Contributors"
+      ],
+      "news-2019-05-09": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2019/Index.html#news-2019-05-09",
+         "Improvements for new TYPO3 users"
+      ],
+      "news-2019-05-09-2": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2019/Index.html#news-2019-05-09-2",
+         "\"Getting Started Tutorial\" updated for TYPO3 9.5"
+      ],
+      "news-2019-06-26": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2019/Index.html#news-2019-06-26",
+         "Deprecation of Extbase / Fluid Guide"
+      ],
+      "news-2019-06-29": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2019/Index.html#news-2019-06-29",
+         "docs.typo3.org Gets New Infrastructure"
+      ],
+      "news-2019-08-09": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2019/Index.html#news-2019-08-09",
+         "New Chapters for Extbase / Fluid Book"
+      ],
+      "news-2019-08-19": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2019/Index.html#news-2019-08-19",
+         "New Chapters for \"TYPO3 Explained\""
+      ],
+      "news-2020": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2020/Index.html#news-2020",
+         "2020"
+      ],
+      "news-2020-fluid-start": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2020/Index.html#news-2020-fluid-start",
+         "Fluid start page"
+      ],
+      "news-2020-link-to-versions": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2020/Index.html#news-2020-link-to-versions",
+         "Change in Intersphinx Linking"
+      ],
+      "news-2020-snippets": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2020/Index.html#news-2020-snippets",
+         "Snippets"
+      ],
+      "news-2020-tsref": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2020/Index.html#news-2020-tsref",
+         "TypoScript Reference"
+      ],
+      "news-2020-typo3-explained-menu": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2020/Index.html#news-2020-typo3-explained-menu",
+         "\"TYPO3 Explained\" menu structure"
+      ],
+      "news-2021": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2021/Index.html#news-2021",
+         "2021"
+      ],
+      "news-contribution-workflow-new": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-contribution-workflow-new",
+         "New Guide: Contribution Workflow"
+      ],
+      "news-old-new-classnames": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-old-new-classnames",
+         "Old and new classnames"
+      ],
+      "news-templating-tutorial-updated": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-templating-tutorial-updated",
+         "Templating Tutorial updated"
+      ],
+      "news-tsconfig-new-theme": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-tsconfig-new-theme",
+         "TSconfig Reference switched to new theme"
+      ],
+      "news-typoscript-syntax-new-theme": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-typoscript-syntax-new-theme",
+         "TypoScript Syntax Reference has new outfit"
+      ],
+      "news-typoscript-syntax-updated": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#news-typoscript-syntax-updated",
+         "TypoScript Syntax Reference updated"
+      ],
+      "php-modindex": [
+         "Welcome!",
+         "2.0",
+         "php-modindex.html",
+         "PHP Namespace Index"
+      ],
+      "py-modindex": [
+         "Welcome!",
+         "2.0",
+         "py-modindex.html",
+         "Python Module Index"
+      ],
+      "references": [
+         "Welcome!",
+         "2.0",
+         "Home/References.html#references",
+         "Reference Manuals"
+      ],
+      "search": [
+         "Welcome!",
+         "2.0",
+         "search.html",
+         "Search Page"
+      ],
+      "start": [
+         "Welcome!",
+         "2.0",
+         "Index.html#start",
+         "Welcome to the official TYPO3 Documentation"
+      ],
+      "start-configuration": [
+         "Welcome!",
+         "2.0",
+         "Index.html#start-configuration",
+         "-"
+      ],
+      "start-contribute-docs": [
+         "Welcome!",
+         "2.0",
+         "Index.html#start-contribute-docs",
+         "-"
+      ],
+      "start-coredev": [
+         "Welcome!",
+         "2.0",
+         "Index.html#start-coredev",
+         "-"
+      ],
+      "start-extdev": [
+         "Welcome!",
+         "2.0",
+         "Index.html#start-extdev",
+         "-"
+      ],
+      "start-getting-started": [
+         "Welcome!",
+         "2.0",
+         "Index.html#start-getting-started",
+         "Getting Started with TYPO3"
+      ],
+      "start-localization": [
+         "Welcome!",
+         "2.0",
+         "Index.html#start-localization",
+         "-"
+      ],
+      "start-theme": [
+         "Welcome!",
+         "2.0",
+         "Index.html#start-theme",
+         "-"
+      ],
+      "surf-manual-moved": [
+         "Welcome!",
+         "2.0",
+         "Home/About/News/2016/Index.html#surf-manual-moved",
+         "Surf manual has moved"
+      ],
+      "system-extensions": [
+         "Welcome!",
+         "2.0",
+         "Home/SystemExtensions.html#system-extensions",
+         "System Extensions"
+      ],
+      "teams": [
+         "Welcome!",
+         "2.0",
+         "Home/Teams.html#teams",
+         "TYPO3 Teams"
+      ],
+      "teams-at-work": [
+         "Welcome!",
+         "2.0",
+         "Home/Teams.html#teams-at-work",
+         "TYPO3 Teams"
+      ],
+      "templating": [
+         "Welcome!",
+         "2.0",
+         "Home/Templating.html#templating",
+         "Templating"
+      ],
+      "tutorials": [
+         "Welcome!",
+         "2.0",
+         "Index.html#tutorials",
+         "Welcome to the official TYPO3 Documentation"
+      ],
+      "upgrading-typo3": [
+         "Welcome!",
+         "2.0",
+         "Home/UpgradingTYPO3.html#upgrading-typo3",
+         "Upgrading TYPO3"
+      ],
+      "usage-browse-pages-by-keyboard": [
+         "Welcome!",
+         "2.0",
+         "Home/About/UsingThisSite/Index.html#usage-browse-pages-by-keyboard",
+         "Browse pages by keyboard"
+      ],
+      "usage-menu": [
+         "Welcome!",
+         "2.0",
+         "Home/About/UsingThisSite/Index.html#usage-menu",
+         "Menu"
+      ],
+      "usage-search": [
+         "Welcome!",
+         "2.0",
+         "Home/About/UsingThisSite/Index.html#usage-search",
+         "Search"
+      ],
+      "usage-start-page": [
+         "Welcome!",
+         "2.0",
+         "Home/About/UsingThisSite/Index.html#usage-start-page",
+         "Go to start page"
+      ],
+      "usage-start-page-manual": [
+         "Welcome!",
+         "2.0",
+         "Home/About/UsingThisSite/Index.html#usage-start-page-manual",
+         "Go to the start page of a manual"
+      ],
+      "usage-structure": [
+         "Welcome!",
+         "2.0",
+         "Home/About/UsingThisSite/Index.html#usage-structure",
+         "General structure"
+      ],
+      "usage-tips": [
+         "Welcome!",
+         "2.0",
+         "Home/About/UsingThisSite/Index.html#usage-tips",
+         "Usage tips"
+      ],
+      "usage-version-selector": [
+         "Welcome!",
+         "2.0",
+         "Home/About/UsingThisSite/Index.html#usage-version-selector",
+         "Version selector"
+      ],
+      "wikilanding": [
+         "Welcome!",
+         "2.0",
+         "Home/WikiLanding.html#wikilanding",
+         "TYPO3 Documentation"
+      ]
+   }
+}
