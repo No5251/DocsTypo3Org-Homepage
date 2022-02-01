@@ -14,7 +14,12 @@ Getting Started with TYPO3
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :ref:`Getting Started <getting-started>`
+            .. rubric:: |image_reference| :ref:`Getting Started <getting-started>`
+
+            .. |image_reference| image:: /Icons/Changelog_icon.svg
+                                 :width: 25
+                                 :height: 25
+                                 :class: text-white bg-black rounded
 
          .. container:: card-body
 
